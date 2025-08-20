@@ -1,19 +1,18 @@
 ## Step 1: Description Evaluation
 **Objective**: Determine if the Description provides sufficient clarity to proceed
 
-**CRITICAL**: Exercise draconian discipline. Assume the description is incomplete until proven otherwise. No yes-man-ism. Flag ANY missing information, no matter how seemingly obvious.
+**CRITICAL**: Exercise draconian discipline on FOUNDATIONAL project parameters only. Focus on what's needed to make basic technology and scope decisions, not implementation details.
 
 ### Core Questions
-- Is the project vision clear and unambiguous?
+- Is the project vision and purpose clear and unambiguous?
 - Are target platforms, operating systems, and deployment environments specified?
 - Is the target audience and their expected technical environment defined?
-- Are performance, scale, and resource requirements clearly stated?
-- What runtime dependencies and installation constraints exist?
-- What critical information is missing or unclear?
-- What assumptions would need to be made to proceed?
+- Are there major performance, scale, or resource constraints that would affect technology choices?
+- What fundamental runtime or installation constraints exist?
+- Are there contradictions in the foundational requirements?
+- Is the basic project scope and success criteria clear?
+- What foundational project parameters are missing that would prevent technology selection?
 - What aspects should be explicitly scoped out as #RMB?
-- Are there contradictions or conflicting requirements in the Description?
-- Is the success criteria and definition of "done" clear?
 
 ### Output Requirements
 - Clear assessment: SUFFICIENT / NEEDS_REFINEMENT
